@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'expense_tracker_db',
         'USER': 'postgres',
-        'PASSWORD': 'your_password',
+        'PASSWORD': '1223',
         'HOST': 'localhost',
         'PORT': '5432',
     }
