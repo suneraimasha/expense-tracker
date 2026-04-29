@@ -1,4 +1,4 @@
-# Student Expense Tracker
+# Expense Tracker
 
 A full-stack expense tracking web application built with:
 
